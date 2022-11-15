@@ -70,7 +70,7 @@ header div:hover {
 }
 
 header h3 {
-    display: inline-block;
+    display: in,ne-block;
     font-family: 'Raleway', sans-serif;
     text-align: center;
     padding-top: 12px;
@@ -101,7 +101,7 @@ section ul {
 }
 
 ul li {
-    background-color: #DD0F55;
+    background-color: #10DE99;
     border-radius: 8px;
     padding: 8px;
     margin: 8px;
