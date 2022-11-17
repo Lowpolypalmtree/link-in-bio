@@ -13,7 +13,7 @@
 }
 
 body * {
-    font-family: 'aaarghnormal', normal;
+    font-family: 'Aaargh-normal, sans-serif;
     line-height: 160%;
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 header {
-    font-family: 'aaarghnormal', normal;
+    font-family: 'Aaargh-normal, sans-serif;
     text-align: center;
     padding: 32px;
     height: calc(120px + 32px);
@@ -40,7 +40,7 @@ header {
 }
 
 header a {
-    font-family: 'aaarghnormal', normal;
+    font-family: 'Aaargh-normal, sans-serif;
     padding-top: 0px;
     text-align: center;
     font-size: 10px;
@@ -64,7 +64,7 @@ header div {
     width: 120px;
     margin: auto;
     /* background-image: linear-gradient(90deg, purple, #ff0066); */
-    border: 5px linear-gradient(180deg, rgba(242,102,181,1) 0%, rgba(201,76,251,1) 34%, rgba(9,9,121,1) 100%) solid;
+    border: 5px purple solid;
 
     border-radius: 50%;
 
@@ -80,7 +80,7 @@ header div:hover {
 
 header h3 {
     display: in,ne-block;
-    font-family: 'aaarghnormal', normal;
+    font-family: 'Aaargh-normal, sans-serif;
     text-align: center;
     padding-top: 12px;
     color: white;
@@ -88,7 +88,7 @@ header h3 {
 }
 
 header p {
-    font-family: 'aaarghnormal', normal;
+    font-family: 'Aaargh-normal, sans-serif;
     font-size: 12px;
     text-align: center;
     color: white;
@@ -136,7 +136,7 @@ section ul li {
 }
 
 footer {
-    font-family: 'aaarghnormal', normal;
+    font-family: 'Aaargh-normal, sans-serif;
     padding-top: 0px;
     text-align: center;
     font-size: 10px;
@@ -146,7 +146,7 @@ footer {
 }
 
 footer a {
-    font-family: 'aaarghnormal', normal;
+    font-family: 'Aaargh-normal, sans-serif;
     padding-top: 0px;
     text-align: center;
     font-size: 10px;
